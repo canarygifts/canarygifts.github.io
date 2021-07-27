@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="252.236" height="56.214" viewBox="0 0 252.236 56.214">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.067" y1="0.031" x2="0.7" y2="0.801" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#573fc7"/>
+      <stop offset="0.247" stop-color="#4f66d0"/>
+      <stop offset="1" stop-color="#a86ae7"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_x0020_1" transform="translate(0 3)">
+    <path id="Path_1" data-name="Path 1" d="M220.958,364.63l-5.908,2.488,5.529,2.509,3.97-2.37Z" transform="translate(-215.05 -357.975)" fill="#5644c8"/>
+    <path id="Union_1" data-name="Union 1" d="M40.2,50.772l-9.226-9.861c-1.861-1.843-8.5-1.256-9.745-1.128l-.118.012-.086.01v0A15.353,15.353,0,0,1,4.912,19.908h0a6.211,6.211,0,0,0-.478-4.152L1.2,11.048A6.806,6.806,0,0,1,2.952,1.585L3.516,1.2a6.8,6.8,0,0,1,9.462,1.753l5.886,8.565L46.888,6.061A2.515,2.515,0,0,1,49.1,10.353L30.312,28.19,44.1,48.37a.989.989,0,0,1-1.207,1.466l-.954-.411-.021.7a.97.97,0,0,1-.639.895,1.008,1.008,0,0,1-.358.067A.971.971,0,0,1,40.2,50.772Z" transform="translate(4.75 2.126)" fill="url(#linear-gradient)"/>
+    <text id="Canary.gifts" transform="translate(71.236 35)" fill="#5644c8" font-size="35" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Canary.gifts</tspan></text>
+  </g>
+</svg>
